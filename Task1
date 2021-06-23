@@ -1,3 +1,5 @@
-Test driven approach means we should create test cases for negative numbers larger than 1000 before modifying the method implementation. We should write the test class first.
+Test driven approach means we should
+1) create a test class with test cases for negative numbers and
+    numbers larger than 1000
+2) modify the method implementation
 
-Then we should modify the method itself to pass these test cases.
